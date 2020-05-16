@@ -1,16 +1,17 @@
 function generateMarkdown(data) {
-    return `#${data.projectName}
-            #${data.projectDescription}
-            #${data.tableOfContents}
-            #${data.installationInput}
-            #${data.usageInput}
-            #${data.licenseChoices}
-            #${data.contributorsInput}
-            #${data.testingInput}
-            #${data.questionsInput}
-            ###${data.githubName}
-            ###${data.gitHubLink}
-            ###${data.emailAddress}
+    return `# "Title: "${data.projectName}
+            # "Description: "${data.projectDescription}
+            # "Table of Contents: "${data.tableOfContents}
+            # "Installation guidelines: "${data.installationInput}
+            # "This application is used for: "${data.usageInput}
+            # "This application is licensed under: "${data.licenseChoices}
+            # "Contributors: "${data.contributorsInput}
+            # "Tests: "${data.testingInput}
+            # "For questions you can reach us by: "${data.questionsInput}
+            ### "E-mail: "${data.emailAddress}
+            ### "GitHub Username: "${data.githubName}
+            ### "GitHub Link: "${data.gitHubLink}
+            
   `;
 }
 
