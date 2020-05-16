@@ -26,20 +26,6 @@ function getInfo() {
             name: "projectDescription"
         },
         {
-            type: "list",
-            message: "What would you like in your table of contents?",
-            name: "tableOfContents",
-            choices: ["Title",
-                "Description",
-                "Installation",
-                "Usage",
-                "License",
-                "Contributors",
-                "Tests",
-                "Questions"
-            ]
-        },
-        {
             type: "input",
             name: "installationInput",
             message: "What are any installation instructions?"
@@ -67,11 +53,6 @@ function getInfo() {
             type: "input",
             name: "testingInput",
             message: "What testing needs to be done?"
-        },
-        {
-            type: "input",
-            name: "questionsInput",
-            message: "For further questions:"
         },
         {
             type: "input",
