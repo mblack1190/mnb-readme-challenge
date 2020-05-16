@@ -13,26 +13,74 @@ function getInfo() {
         {
             type: "input",
             name: "projectName",
-            message: "What is the name of your project?"
+            message: "What is your project title?"
         },
         {
-            type: "checkbox",
-            message: "What technology does this use?",
-            name: "stack",
-            choices: [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Node"
+            type: "input",
+            name: "gitHubLink",
+            message: "What is your gitHub link?"
+        },
+        {
+            type: "input",
+            message: "Describe your project.",
+            name: "projectDescription"
+        },
+        {
+            type: "list",
+            message: "What would you like in your table of contents?",
+            name: "tableOfContents",
+            choices: ["Title",
+                "Description",
+                "Installation",
+                "Usage",
+                "License",
+                "Contributors",
+                "Tests",
+                "Questions"
             ]
         },
         {
             type: "input",
-            message: "Who worked on this project?",
-            name: "authors"
+            name: "installationInput",
+            message: "What are any installation instructions?"
+        },
+        {
+            type: "input",
+            name: "usageInput",
+            message: "What is pertinent usage information?"
+        },
+        {
+            type: "list",
+            name: "licenseChoices",
+            choices: ["MIT License",
+                "GNU License",
+                "Apache License"
+            ]
+        },
+        {
+            type: "input",
+            name: "contributorsInput",
+            message: "Who were project contributors?"
+        },
+
+        {
+            type: "input",
+            name: "testingInput",
+            message: "What testing needs to be done?"
+        },
+        {
+            type: "input",
+            name: "questionsInput",
+            message: "For further questions:"
+        },
+        {
+            type: "input",
+            name: "emailAddress",
+            message: "What email address would you like to be reached at?"
         }
+
     ]).then(function (inquirerResponses) {
-      writeToFile("README.md", generateMarkdown({... inquirerResponses}))
+        writeToFile("README.md", generateMarkdown({ ...inquirerResponses }))
     })
 }
 
