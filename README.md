@@ -1,44 +1,45 @@
-# Title: Readme Generator
+# Title: readme generator
             
-            # Description: 
+# Description: 
+    
+read me generator to make creating a readme qucker and easier than ever
+            
+ # Table of Contents: 
+    * Title
+    * Description
+    * Table of Contents
+    * Installation Guidelines
+    * Usage
+    * License
+    * Contributors
+    * Tests
+    * Questions
+            
+# Installation guidelines: 
 
-                This project is a readme generator which is tasked with making the creation of a readme file easier than ever
-            
-            # Table of Contents: 
-                * Title
-                * Description
-                * *Table of Contents
-                * Installation Guidelines
-                * Usage
-                * License
-                * Contributors
-                * Tests
-                * Questions
-            
-            # Installation guidelines: 
+no installation instructions at this time
 
-                no installation instructions
-            # Usage: 
+# Usage: 
 
-                This application is used for: This app is designed to make creating a readme quicker than ever
+This application is used for: intended for use in creating readme files
             
-            # License:
+# License:
 
-                This application is licensed under: MIT License
+This application is licensed under: MIT License
             
-            # Contributors: 
+# Contributors: 
 
-                meredith
+meredith
             
-            # Tests:
+# Tests:
 
-                no testing at this time
+no further testing at this time
             
-            # Questions: 
-            
-                For questions you can reach us by:
-                 **E-mail:** mblack1190@gmail.com
-                 **GitHub Username:** mblack1190
-                 **GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge
+# Questions: 
+
+For questions you can reach us by:
+**E-mail:** mblack1190@gmail.com
+**GitHub Username:** mblack1190
+**GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge
             
   
