@@ -22,7 +22,7 @@ ${data.installationInput}
 
 ## Usage: 
 
-This application is used for: ${data.usageInput}
+${data.usageInput}
             
 ## License:
 

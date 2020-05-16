@@ -2,7 +2,7 @@
             
 ## Description: 
     
-This project is designed to generate read me pages using a template that makes creating a readme faster and easier than ever.
+This project is designed to generate readme pages using a template that makes creating a readme faster and easier than ever.
             
  ## Table of Contents: 
     * Title
@@ -17,15 +17,15 @@ This project is designed to generate read me pages using a template that makes c
             
 ## Installation guidelines: 
 
-You can use vs code and the terminal to run this application
+This application works using VS Code, the terminal, and gitHub.
 
 ## Usage: 
 
-This application is used for: This application is used to generate quality readme files
+This application is used for generating quality readme files.
             
 ## License:
 
-This application is licensed under: MIT License
+This application is licensed under: GNU License
             
 ## Contributors: 
 
@@ -33,7 +33,7 @@ Meredith Black
             
 ## Tests:
 
-No further testing at this time.
+No testing needs to be done at this time.
             
 ## Questions: 
 
