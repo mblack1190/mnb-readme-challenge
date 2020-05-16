@@ -1,11 +1,11 @@
 function generateMarkdown(data) {
     return `# Title: ${data.projectName}
             
-# Description: 
+## Description: 
     
 ${data.projectDescription}
             
- # Table of Contents: 
+ ## Table of Contents: 
     * Title
     * Description
     * Table of Contents
@@ -16,31 +16,34 @@ ${data.projectDescription}
     * Tests
     * Questions
             
-# Installation guidelines: 
+## Installation guidelines: 
 
 ${data.installationInput}
 
-# Usage: 
+## Usage: 
 
 This application is used for: ${data.usageInput}
             
-# License:
+## License:
 
 This application is licensed under: ${data.licenseChoices}
             
-# Contributors: 
+## Contributors: 
 
 ${data.contributorsInput}
             
-# Tests:
+## Tests:
 
 ${data.testingInput}
             
-# Questions: 
+## Questions: 
 
 For questions you can reach us by:
+
 **E-mail:** ${data.emailAddress}
+
 **GitHub Username:** ${data.githubName}
+
 **GitHub Link:** ${data.gitHubLink}
             
   `;

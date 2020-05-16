@@ -1,10 +1,10 @@
-# Title: readme generator
+# Title: README Generator
             
-# Description: 
+## Description: 
     
-read me generator to make creating a readme qucker and easier than ever
+This project is designed to generate read me pages using a template that makes creating a readme faster and easier than ever.
             
- # Table of Contents: 
+ ## Table of Contents: 
     * Title
     * Description
     * Table of Contents
@@ -15,31 +15,34 @@ read me generator to make creating a readme qucker and easier than ever
     * Tests
     * Questions
             
-# Installation guidelines: 
+## Installation guidelines: 
 
-no installation instructions at this time
+You can use vs code and the terminal to run this application
 
-# Usage: 
+## Usage: 
 
-This application is used for: intended for use in creating readme files
+This application is used for: This application is used to generate quality readme files
             
-# License:
+## License:
 
 This application is licensed under: MIT License
             
-# Contributors: 
+## Contributors: 
 
-meredith
+Meredith Black
             
-# Tests:
+## Tests:
 
-no further testing at this time
+No further testing at this time.
             
-# Questions: 
+## Questions: 
 
 For questions you can reach us by:
+
 **E-mail:** mblack1190@gmail.com
+
 **GitHub Username:** mblack1190
+
 **GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge
             
   
