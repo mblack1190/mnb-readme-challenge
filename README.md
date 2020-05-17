@@ -2,10 +2,10 @@
 
 ## Description: 
     
-This application makes generating a REAMDE file easier than ever
+This application makes 
             
  ## Table of Contents: 
-    * [Title](#Tile)
+    * [Title](#tile)
     * [Description](#Description)
     * [Table of Contents](#Description)
     * [Installation Guidelines](#Installation Guidelines)
@@ -17,11 +17,11 @@ This application makes generating a REAMDE file easier than ever
             
 ## Installation guidelines: 
 
-None at this time
+installation instructions
 
 ## Usage: 
 
-None at this time
+usage
             
 ## License:
 
@@ -29,17 +29,17 @@ This application is licensed under: MIT License
             
 ## Contributors: 
 
-Meredith
+me
             
 ## Tests:
 
-None at this time
+na
             
 ## Questions: 
 
 For questions you can reach us by:
 
-**E-mail:** mblack1190@gmail.com
+**E-mail:** mblack@gmail.com
 
 **GitHub Username:** mblack1190
 
