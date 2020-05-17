@@ -45,7 +45,7 @@ For questions you can reach us by:
 
 **GitHub Username:** mblack1190
 
-**GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge#usage
+**GitHub Link:** github.com/mblack1190/mnb-readme-challenge
 
 **Screencastify Video Link:** 
 
