@@ -2,7 +2,7 @@
 
 ## Description: 
     
-This application is designed to make creating quality readme's easier than ever.
+This project is designed to make creating quality readme's easier than ever.
 
 ![NPM](https://img.shields.io/npm/l/inquirer)
 
@@ -45,7 +45,7 @@ For questions you can reach us by:
 
 **GitHub Username:** mblack1190
 
-**GitHub Link:** github.com/mblack1190/mnb-readme-challenge
+**GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge
 
 **Screencastify Video Link:** 
 
