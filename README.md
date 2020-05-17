@@ -7,8 +7,8 @@ mnb
 ## Table of Contents: 
 * [Title](#title)
 * [Description](#description)
-* [Table of Contents](#table of contents)
-* [Installation Guidelines](#installation guidelines)
+* [Table of Contents](#table-of-contents)
+* [Installation Guidelines](#installation-guidelines)
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
@@ -39,9 +39,9 @@ mnb
 
 For questions you can reach us by:
 
-**E-mail:** mnb
+**E-mail:** mmn
 
-**GitHub Username:** mnn
+**GitHub Username:** mnb
 
 **GitHub Link:** mnb
             

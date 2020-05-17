@@ -8,8 +8,8 @@ ${data.projectDescription}
 ## Table of Contents: 
 * [Title](#title)
 * [Description](#description)
-* [Table of Contents](#table of contents)
-* [Installation Guidelines](#installation guidelines)
+* [Table of Contents](#table-of-contents)
+* [Installation Guidelines](#installation-guidelines)
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
