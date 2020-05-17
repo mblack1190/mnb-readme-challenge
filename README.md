@@ -1,11 +1,11 @@
-# Title: README Generator
+# Title: mnb
 
 ## Description: 
     
-This application makes 
+mnb
             
  ## Table of Contents: 
-    * [Title](#tile)
+    * [Title](#projectName)
     * [Description](#Description)
     * [Table of Contents](#Description)
     * [Installation Guidelines](#Installation Guidelines)
@@ -17,11 +17,11 @@ This application makes
             
 ## Installation guidelines: 
 
-installation instructions
+mnb
 
 ## Usage: 
 
-usage
+mnb
             
 ## License:
 
@@ -29,20 +29,20 @@ This application is licensed under: MIT License
             
 ## Contributors: 
 
-me
+mnb
             
 ## Tests:
 
-na
+mnb
             
 ## Questions: 
 
 For questions you can reach us by:
 
-**E-mail:** mblack@gmail.com
+**E-mail:** mn
 
-**GitHub Username:** mblack1190
+**GitHub Username:** mnb
 
-**GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge
+**GitHub Link:** mnb
             
   
