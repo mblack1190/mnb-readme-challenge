@@ -54,6 +54,9 @@ For questions you can reach us by:
 **GitHub Username:** ${data.githubName}
 
 **GitHub Link:** ${data.gitHubLink}
+
+**Screencastify Video Link:** 
+
             
   `;
 }

@@ -57,7 +57,12 @@ function getInfo() {
             type: "input",
             name: "emailAddress",
             message: "What email address would you like to be reached at?"
-        }
+        },
+        {
+            type: "input",
+            name: "videoLink",
+            message: "What is your Screencastify Video Link?"
+        },
 
     ]).then(function (inquirerResponses) {
         writeToFile("README.md", generateMarkdown({ ...inquirerResponses }))
