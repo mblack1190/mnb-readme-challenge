@@ -4,16 +4,16 @@
     
 mnb
             
- ## Table of Contents: 
-    * [Title](#projectName)
-    * [Description](#Description)
-    * [Table of Contents](#Description)
-    * [Installation Guidelines](#Installation Guidelines)
-    * [Usage](#Usage)
-    * [License](#License)
-    * [Contributors](#Contributors)
-    * [Tests](#Tests)
-    * [Questions](#Questions)
+## Table of Contents: 
+* [Title](#title)
+* [Description](#description)
+* [Table of Contents](#table of contents)
+* [Installation Guidelines](#installation guidelines)
+* [Usage](#usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Tests](#tests)
+* [Questions](#questions)
             
 ## Installation guidelines: 
 
@@ -39,9 +39,9 @@ mnb
 
 For questions you can reach us by:
 
-**E-mail:** mn
+**E-mail:** mnb
 
-**GitHub Username:** mnb
+**GitHub Username:** mnn
 
 **GitHub Link:** mnb
             
