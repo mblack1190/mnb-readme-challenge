@@ -1,8 +1,8 @@
-# Title: mnb-readme-challenge
+# Title: MNB-README-Challenge
 
 ## Description: 
     
-This application is designed to make read me creation easier than ever.
+This application is designed to make creating quality readme's easier than ever.
 
 ![NPM](https://img.shields.io/npm/l/inquirer)
 
@@ -19,11 +19,11 @@ This application is designed to make read me creation easier than ever.
             
 ## Installation guidelines: 
 
-This project uses gitHub, Node JS, and VS Code.
+This project uses Node JS, VS Code, and gitHub.
 
 ## Usage: 
 
-This application is used for generating quality Read Me files.
+This project uses Node JS, VS Code, and gitHub.
             
 ## License:
 
@@ -35,7 +35,7 @@ Meredith Black
             
 ## Tests:
 
-None at this time
+No further testing at this time.
             
 ## Questions: 
 
@@ -45,7 +45,7 @@ For questions you can reach us by:
 
 **GitHub Username:** mblack1190
 
-**GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge
+**GitHub Link:** https://github.com/mblack1190/mnb-readme-challenge#usage
 
 **Screencastify Video Link:** 
 
