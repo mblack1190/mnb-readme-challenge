@@ -1,20 +1,20 @@
 function generateMarkdown(data) {
     return `# Title: ${data.projectName}
-            
+
 ## Description: 
     
 ${data.projectDescription}
             
  ## Table of Contents: 
-    * Title
-    * Description
-    * Table of Contents
-    * Installation Guidelines
-    * Usage
-    * License
-    * Contributors
-    * Tests
-    * Questions
+    * [Title](#Tile)
+    * [Description](#Description)
+    * [Table of Contents](#Description)
+    * [Installation Guidelines](#Installation Guidelines)
+    * [Usage](#Usage)
+    * [License](#License)
+    * [Contributors](#Contributors)
+    * [Tests](#Tests)
+    * [Questions](#Questions)
             
 ## Installation guidelines: 
 

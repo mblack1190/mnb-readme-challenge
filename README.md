@@ -1,39 +1,39 @@
 # Title: README Generator
-            
+
 ## Description: 
     
-This project is designed to generate readme pages using a template that makes creating a readme faster and easier than ever.
+This application makes generating a REAMDE file easier than ever
             
  ## Table of Contents: 
-    * Title
-    * Description
-    * Table of Contents
-    * Installation Guidelines
-    * Usage
-    * License
-    * Contributors
-    * Tests
-    * Questions
+    * [Title](#Tile)
+    * [Description](#Description)
+    * [Table of Contents](#Description)
+    * [Installation Guidelines](#Installation Guidelines)
+    * [Usage](#Usage)
+    * [License](#License)
+    * [Contributors](#Contributors)
+    * [Tests](#Tests)
+    * [Questions](#Questions)
             
 ## Installation guidelines: 
 
-This application works using VS Code, the terminal, and gitHub.
+None at this time
 
 ## Usage: 
 
-This application is used for generating quality readme files.
+None at this time
             
 ## License:
 
-This application is licensed under: GNU License
+This application is licensed under: MIT License
             
 ## Contributors: 
 
-Meredith Black
+Meredith
             
 ## Tests:
 
-No testing needs to be done at this time.
+None at this time
             
 ## Questions: 
 
