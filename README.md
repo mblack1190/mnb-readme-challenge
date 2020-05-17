@@ -3,7 +3,9 @@
 ## Description: 
     
 mnb
-            
+
+![NPM](https://img.shields.io/npm/l/inquirer)
+
 ## Table of Contents: 
 * [Title](#title)
 * [Description](#description)
@@ -25,7 +27,7 @@ mnb
             
 ## License:
 
-This application is licensed under: MIT License
+This application is licensed under: NPM License
             
 ## Contributors: 
 
@@ -39,7 +41,7 @@ mnb
 
 For questions you can reach us by:
 
-**E-mail:** mmn
+**E-mail:** mnb
 
 **GitHub Username:** mnb
 

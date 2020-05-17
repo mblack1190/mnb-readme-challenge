@@ -38,9 +38,8 @@ function getInfo() {
         {
             type: "list",
             name: "licenseChoices",
-            choices: ["MIT License",
-                "GNU License",
-                "Apache License"
+            choices: ["GITHUB License",
+                "NPM License"
             ]
         },
         {

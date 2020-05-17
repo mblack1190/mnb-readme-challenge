@@ -1,10 +1,19 @@
+function generateBadge(licenseChoices) {
+    if (licenseChoices == "GITHUB License") {
+        return `![GitHub](https://img.shields.io/github/license/mblack1190/mnb-readme-generator)`
+    } else if (licenseChoices == "NPM License") {
+        return `![NPM](https://img.shields.io/npm/l/inquirer)`
+}
+}
 function generateMarkdown(data) {
     return `# Title: ${data.projectName}
 
 ## Description: 
     
 ${data.projectDescription}
-            
+
+${generateBadge(data.licenseChoices)}
+
 ## Table of Contents: 
 * [Title](#title)
 * [Description](#description)
